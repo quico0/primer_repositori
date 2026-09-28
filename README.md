@@ -1,5 +1,5 @@
 # Projecte 2
  
-Nom i cognoms: Quico Carbonell Verdura
+Quico Carbonell Verdura
  
-Classe i curs: SMX2A
+ SMX2A
