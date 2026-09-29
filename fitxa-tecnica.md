@@ -57,7 +57,7 @@ git push origin main
 
 - [01-iniciació git GitHub i Visual Studio Code](https://github.com/SMX-ProjecteIntermodular/Projecte2/blob/main/guies/01-iniciacio-git-github-vscode.md)
 
-## Flux de treball amb Git
+## Flux de treball amb Git  
 
 1. Modificar fitxers.
 2. Revisar els canvis amb git status.
