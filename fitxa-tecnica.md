@@ -51,7 +51,6 @@ git push origin main
 
 ## Recursos
 
-- [Documentació GitHub](https://docs.e treball amb Git
 
 1. Modificar fitxers.
 2. Revisar canvis amb git status.
