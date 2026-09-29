@@ -42,7 +42,7 @@ Crear un compte de GitHub, generar un repositori públic, clonar-lo amb Visual S
 
 ## Imatge
 
-![Captura repostiori](./media/captura-repositori.png.pngmedia/cap)
+![Captura repostiori](./media/captura-repositori.png)
 
 ## Bloc de codi
 
