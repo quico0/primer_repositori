@@ -47,7 +47,7 @@ git push origin main
 
 ## Imatge
 
-![Captcaptura-repositori.png
+![Imatge Respoitori](./media/captura-repositori.png.png)
 
 ## Recursos
 
