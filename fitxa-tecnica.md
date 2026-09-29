@@ -47,7 +47,11 @@ git push origin main
 
 ## Imatge
 
-![Captura del repositori](media/captura-repositori.pngocs.github.com/
+![Captcaptura-repositori.png
+
+## Recursos
+
+- https://docs.github.com/
 
 ## Flux de treball amb Git
 
@@ -57,4 +61,3 @@ git push origin main
 4. Afegir canvis amb git add.
 5. Crear un commit amb git commit.
 6. Sincronitzar amb git push.
-``
