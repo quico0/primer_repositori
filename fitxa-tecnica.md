@@ -47,10 +47,9 @@ git push origin main
 
 ## Imatge
 
-![Capturaepositori.png
+![Captura del repositori](media/captura-repositori.pngocs.github.com/
 
-## Recursos
-
+## Flux de treball amb Git
 
 1. Modificar fitxers.
 2. Revisar canvis amb git status.
@@ -58,3 +57,4 @@ git push origin main
 4. Afegir canvis amb git add.
 5. Crear un commit amb git commit.
 6. Sincronitzar amb git push.
+``
